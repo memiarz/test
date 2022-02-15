@@ -1,0 +1,24 @@
+Afterburner - ustawienia
+C:\Program Files (x86)\MSI Afterburner\Profiles
+
+
+profil - Chrome - onetab
+C:/Users/<Username>/AppData/Local/Google/Chrome/User Data/Default/Local Storage/leveldb .
+
+
+sharex profil
+tapety, pic, nsfw i inne
+
+Firefox:
+Katalog główny:
+C:\Users\MRC22\AppData\Roaming\Mozilla\Firefox\Profiles\ekhg9ku6.default-1643970209720
+
+Lokalny:
+C:\Users\MRC22\AppData\Local\Mozilla\Firefox\Profiles\ekhg9ku6.default-1643970209720
+
+Folder profilu z help/troubleshooting
+C:\Users\MRC22\AppData\Roaming\Mozilla\Firefox\Profiles
+
+
+
+
